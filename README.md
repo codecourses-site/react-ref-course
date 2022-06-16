@@ -24,7 +24,7 @@
 
 - For the full course, You can refer to this [link](https://codecourses.site/react/how-to-learn-react-ref-ep-1/).
 
-- You can refer to this [Youtube video]() for the live demo.
+- You can refer to this [Youtube video](https://www.youtube.com/watch?v=_XfT7wvgbL8) for the live demo.
 
 <a id="technologies"></a>
 
